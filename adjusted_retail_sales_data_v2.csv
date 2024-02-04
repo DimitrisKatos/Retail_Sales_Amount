@@ -1,0 +1,1001 @@
+SalesDate,ProductCategory,SalesAmount,CustomerAge,CustomerGender,CustomerLocation,ProductRatings
+2023-10-15,Home Appliances,609,22,Male,USA,4
+2023-09-16,Clothing,1367,22,Female,Australia,5
+2022-09-06,Electronics,1736,22,Male,UK,2
+2023-02-24,Female,1838,35,Clothing,India,2
+2022-09-24,Home Appliances,1829,35,Male,UK,5
+2023-08-15,Clothing,379,22,Male,Australia,3
+2022-07-19,Clothing,1459,35,Male,USA,5
+12-09-2023,Clothing,1656,35,Male,USA,3
+2022-08-07,Electronics,366,35,Male,Canada,2
+2023-12-04,Clothing,1875,35,Female,UK,10
+2022-06-19,Home Appliances,292,22,Male,Australia,3
+2023-12-30,Electronics,1489,22,Female,Australia,2
+2022-03-13,Home Appliances,1407,35,Female,India,2
+2022-12-13,Home Appliances,985,22,Male,UK,3
+2023-11-08,Electronics,1523,22,Female,India,4
+2022-03-09,Clothing,1851,35,Female,USA,3
+2022-10-19,Clothing,779,22,Female,USA,2
+2023-05-23,Clothing,627,22,Female,Australia,1
+2023-12-22,Clothing,779%,35,Male,Canada,5
+2022-05-24,Clothing,891,35,Female,USA,4
+2022-04-22,Home Appliances,710,22,Male,India,2
+2023-11-06,Home Appliances,301,22,Male,USA,1
+2023-06-11,Electronics,863,35,Male,India,4
+2023-05-24,Clothing,597,35,Male,India,1
+2023-08-10,Clothing,31,22,Female,India,2
+2023-11-27,Clothing,1067,22,Male,Japan,1
+2023-03-19,Home Appliances,1829,35,Male,Canada,2
+2022-08-28,Electronics,1241,22,Female,India,1
+2023-12-19,Clothing,601,22,Male,USA,1
+2023-05-21,Electronics,31,22,Male,UK,4
+2023-05-17,Home Appliances,625,35,Male,UK,5
+2023-09-26,Clothing,1108,22,Female,Japan,4
+2023-12-26,Home Appliances,1838,22,Female,USA,3
+2023-11-23,Clothing,149,35,Female,Canada,3
+2023-06-10,Electronics,933,22,Male,UK,2
+2022-07-26,Clothing,617,22,Male,USA,1
+2022-11-21,Clothing,1624,22,Female,UK,4
+2022-05-21,Home Appliances,1978,22,Male,India,1
+2022-11-28,Electronics,1266,35,Male,UK,5
+2023-04-05,Electronics,761,22,Male,Canada,1
+2022-04-02,Clothing,1712,22,Male,UK,2
+2023-01-21,Home Appliances,987,22,Female,USA,4
+2022-12-29,Clothing,609,22,Female,Canada,3
+2023-02-20,Home Appliances,1768,35,Male,Japan,5
+2023-01-04,Clothing,1776,22,Female,Japan,1
+2023-01-23,Clothing,1547,35,Male,USA,5
+2022-11-01,Home Appliances,1398,22,Male,UK,5
+2023-08-27,Clothing,686,35,Female,Canada,5
+2023-11-30,Electronics,787,22,Male,India,5
+2023-04-11,Electronics,436,35,Male,Japan,4
+2023-07-10,Home Appliances,365,22,Female,USA,5
+2022-01-04,Home Appliances,933,35,Female,Canada,5
+2023-12-06,Clothing,1829,22,Male,UK,4
+2023-04-30,Clothing,1712,35,Female,USA,2
+2023-05-09,Electronics,290,22,Male,Japan,3
+2022-12-25,Home Appliances,1501,35,Female,India,3
+2023-05-03,Home Appliances,1337,35,Male,USA,5
+2022-01-19,Electronics,1316,22,Male,USA,5
+2023-09-15,Home Appliances,617,22,Male,Canada,3
+2023-03-23,Clothing,1781,22,Female,India,1
+2023-05-11,Home Appliances,710,35,Male,UK,1
+2023-12-19,Home Appliances,1576,22,Female,USA,5
+2022-10-01,Clothing,802,22,Male,USA,3
+2023-03-24,Clothing,1259,35,Female,India,1
+2023-06-13,Electronics,495,35,Male,India,1
+2023-08-09,Electronics,3-0,35,Female,Japan,3
+2022-06-14,Electronics,1236,35,Female,UK,1
+2023-10-31,Home Appliances,1259,22,Female,Japan,3
+2023-07-08,Clothing,329,35,Female,Canada,4
+2022-12-31,Home Appliances,625,22,Female,Japan,5
+2023-11-22,Clothing,815,35,Female,Japan,3
+2023-06-01,Clothing,1781,35,Male,UK,2
+2023-09-17,Home Appliances,3-00,35,Male,USA,3
+10/07/2023,Home Appliances,710,35,Female,India,4
+2022-03-23,Home Appliances,844,35,Male,India,2
+2023-06-08,Clothing,1656,22,Male,UK,1
+2023-04-26,Clothing,273,22,Male,Japan,2
+2023-07-16,Home Appliances,1143,22,Female,Japan,2
+2023-12-21,Clothing,647,35,Male,UK,1
+2023-07-11,Clothing,607,22,Female,Japan,2
+2023-08-15,Home Appliances,1851,22,Male,Japan,1
+2023-06-06,Clothing,1845,35,Male,UK,2
+2023-06-17,Electronics,1145,35,Male,USA,1
+2022-11-09,Home Appliances,1400,35,Male,Japan,3
+2022-12-22,Electronics,28,22,Female,UK,4
+2023-11-03,Electronics,627,22,Male,UK,4
+2022-07-31,Electronics,1085,35,Female,USA,2
+2023-04-10,Electronics,466,22,Female,Japan,4
+2023-03-15,Electronics,844,35,Male,UK,4
+2023-06-30,Electronics,1407,35,Male,UK,2
+2022-12-12,Home Appliances,1068,35,Female,India,1
+24-11-2023,Home Appliances,994,35,Female,USA,5
+2023-11-05,Clothing,1942,22,Male,Canada,3
+2023-04-12,Home Appliances,1814,35,Female,Japan,4
+2023-07-29,Electronics,77,35,Male,Canada,2
+2023-06-29,Home Appliances,520,35,Male,Canada,1
+2023-06-28,Electronics,627,35,Female,Canada,2
+2022-02-16,Electronics,1447,22,Male,UK,5
+2022-04-28,Home Appliances,1292,35,Male,Japan,4
+2023-02-06,Electronics,1489,22,Male,India,5
+2022-12-14,Electronics,881,35,Female,Japan,1
+2023-01-25,Electronics,1501,35,Male,India,3
+2022-07-14,Electronics,1249,35,Female,USA,4
+2022-01-02,Electronics,722,35,Male,India,1
+2023-05-11,Home Appliances,1250,35,Female,UK,2
+2023-11-11,Electronics,173,35,Male,USA,2
+2022-04-23,Home Appliances,1232,22,Female,India,3
+2023-10-05,Home Appliances,1762,35,Male,India,3
+2023-10-13,Home Appliances,1473,22,Female,India,4
+2022-08-14,Home Appliances,1781,22,Male,UK,1
+2022-09-25,Home Appliances,1148,35,Female,Japan,1
+2023-09-12,Electronics,1980,35,Female,UK,3
+2023-05-04,Home Appliances,802,22,Female,UK,5
+2022-07-31,Home Appliances,1068,35,Female,India,3
+2023-06-18,Clothing,373,22,Female,Japan,3
+2022-08-08,Home Appliances,609,22,Female,UK,2
+2023-03-22,Home Appliances,1419,22,Female,Canada,3
+2023-11-30,Clothing,1863,35,Female,USA,5
+2022-04-24,Home Appliances,341,22,Female,USA,2
+2022-06-26,Electronics,128,35,Female,Canada,2
+2022-04-08,Home Appliances,1020,35,Male,Japan,5
+2022-03-02,Clothing,149,22,Female,USA,5
+2022-02-26,Home Appliances,466,22,Male,USA,2
+2023-05-04,Electronics,1563,35,Female,USA,2
+2022-01-25,Home Appliances,1845,22,Female,India,2
+2023-02-14,Electronics,996,22,Female,Canada,5
+2023-10-01,Electronics,752,35,Male,Canada,1
+2022-04-10,Clothing,794,35,Male,Canada,4
+2023-02-24,Clothing,844,22,Male,Japan,4
+2023-09-17,Electronics,520,35,Female,UK,3
+2022-06-16,Home Appliances,466,22,Female,India,5
+2023-04-01,Clothing,787,35,Female,Japan,2
+2022-07-27,Clothing,597,22,Male,UK,1
+2022-03-01,Electronics,687,35,Female,Japan,3
+2022-05-17,Clothing,77,35,Male,Japan,3
+2023-12-13,Home Appliances,1148,22,Male,Japan,2
+2023-10-12,Clothing,436,35,Male,UK,5
+2022-07-25,Home Appliances,939,35,Female,India,4
+2023-10-13,Electronics,1232,35,Female,India,1
+2023-04-09,Electronics,1822,22,Male,Japan,2
+2022-12-14,Clothing,939,35,Male,Canada,1
+2023-09-24,Clothing,259,35,Female,Canada,5
+2023-06-28,Electronics,1337,35,Female,Japan,5
+2022-04-21,Clothing,28,35,Male,Japan,3
+2022-10-02,Clothing,1115,22,Female,USA,2
+2022-01-11,Home Appliances,609,22,Male,Japan,3
+2022-07-12,Clothing,188,22,Female,Canada,3
+2023-04-14,Electronics,1736,22,Female,USA,1
+2022-06-08,Electronics,670,22,Female,USA,2
+2023-09-22,Electronics,1292,22,Female,Japan,2
+2022-01-03,Home Appliances,31,22,Female,UK,5
+2023-02-13,Clothing,1547,22,Male,India,4
+2022-02-17,Home Appliances,1241,35,Female,USA,2
+2022-09-18,Electronics,609,22,Female,India,3
+2022-10-05,Electronics,1259,22,Female,Japan,2
+2023-01-08,Electronics,1070,35,Male,Canada,4
+2022-07-21,Electronics,1473,35,Female,Japan,1
+2023-12-30,Home Appliances,259,35,Female,Japan,5
+2023-07-22,Electronics,41,35,Male,USA,5
+2022-10-19,Home Appliances,1451,22,Female,Canada,2
+2022-02-06,Clothing,1621,35,Female,Japan,1
+2022-04-11,Clothing,1447,35,Male,Canada,2
+2023-12-04,Clothing,456,22,Female,Japan,5
+2023-12-24,Home Appliances,373,22,Male,UK,1
+2023-04-01,Clothing,1108,35,Female,India,2
+2023-10-09,Clothing,891,35,Female,USA,5
+2022-02-21,Electronics,495,22,Male,Japan,2
+2022-01-04,Electronics,584,35,Female,UK,3
+2023-06-04,Home Appliances,1768,22,Female,UK,4
+2023-02-17,Home Appliances,994,22,Male,Canada,3
+2023-03-15,Clothing,1544,22,Female,Canada,1
+2022-10-18,Electronics,226,35,Female,USA,3
+2023-01-13,Electronics,1978,35,Female,Canada,5
+2022-01-27,Clothing,1096,22,Female,Canada,5
+2022-07-01,Clothing,1581,22,Male,USA,2
+2023-07-18,Clothing,609,35,Female,India,3
+2022-04-16,Home Appliances,1875,22,Male,UK,1
+2022-12-05,Home Appliances,1108,22,Female,Japan,4
+2022-08-10,Electronics,1762,22,Female,Canada,3
+2023-09-21,Electronics,1489,35,Female,UK,1
+2023-11-13,Electronics,144,35,Male,UK,3
+2022-08-11,Home Appliances,127,22,Male,Japan,3
+2023-03-30,Electronics,1768,35,Female,Japan,2
+2022-06-25,Electronics,1449,35,Male,Japan,5
+2022-05-23,Electronics,1688,35,Male,Japan,4
+2023-07-25,Home Appliances,736,35,Female,USA,4
+2022-10-20,Home Appliances,1501,22,Female,USA,3
+2022-08-30,Clothing,710,22,Female,Canada,2
+2022-06-11,Electronics,1618,22,Male,UK,3
+2022-04-15,Home Appliances,1067,22,Male,Canada,3
+2023-05-17,Electronics,366,35,Female,Japan,1
+2023-10-01,Home Appliances,1400,35,Male,Japan,2
+2022-11-28,Clothing,1316,22,Male,India,1
+2023-08-31,Home Appliances,1096,22,Female,Japan,3
+2023-07-25,Home Appliances,1621,35,Male,USA,4
+2023-12-16,Electronics,1250,22,Female,Japan,3
+2023-01-02,Electronics,833,35,Female,UK,4
+2022-06-06,Electronics,344,22,Male,Canada,1
+2022-09-12,Home Appliances,128,22,Female,Japan,3
+2022-07-27,Electronics,670,35,Female,Canada,3
+2023-05-14,Electronics,1688,35,Female,UK,1
+2023-07-01,Clothing,1489,22,Female,UK,4
+2023-04-21,Electronics,1473,35,Male,UK,1
+2022-10-27,Electronics,304,35,Female,USA,3
+2022-06-19,Home Appliances,304,35,Female,Canada,2
+2023-12-21,Clothing,436,22,Female,Japan,3
+2022-06-19,Electronics,1419,35,Female,Canada,1
+2023-05-15,Electronics,987,22,Male,UK,3
+2022-10-30,Home Appliances,1096,35,Male,Canada,4
+2023-10-19,Electronics,994,22,Female,Canada,4
+2022-03-22,Electronics,1337,22,Male,Canada,3
+2023-03-10,Electronics,1143,35,Male,Japan,2
+2022-06-12,Clothing,939,22,Male,Japan,1
+2023-01-15,Clothing,1776,22,Female,India,1
+2022-05-14,Clothing,341,35,Female,UK,2
+2022-10-22,Electronics,251,22,Male,Japan,1
+2022-09-17,Home Appliances,1407,22,Male,UK,5
+2023-08-07,Home Appliances,736,35,Female,UK,1
+2022-03-21,Electronics,1942,22,Male,India,2
+2022-08-11,Home Appliances,365,22,Female,UK,5
+2022-08-08,Home Appliances,802,22,Female,India,2
+2023-10-23,Home Appliances,771,22,Male,Japan,1
+2023-04-12,Clothing,226,35,Female,USA,1
+2022-11-07,Home Appliances,686,35,Male,USA,5
+2022-01-27,Clothing,1632,22,Female,India,4
+2022-01-09,Electronics,436,35,Male,UK,2
+2022-09-03,Electronics,1148,35,Female,UK,3
+2023-03-25,Home Appliances,292,35,Female,UK,2
+2022-04-14,Clothing,1250,22,Female,USA,5
+2022-05-18,Clothing,163,22,Female,USA,2
+2022-03-13,Electronics,994,35,Male,Canada,4
+2022-11-03,Clothing,173,35,Male,Japan,2
+2023-04-08,Electronics,273,22,Female,UK,2
+2023-03-24,Home Appliances,304,35,Female,Canada,2
+2023-04-17,Clothing,1776,35,Female,USA,3
+2023-12-01,Electronics,686,35,Male,Canada,4
+2023-01-27,Clothing,710,35,Female,UK,5
+2022-08-12,Electronics,787,35,Female,Japan,4
+2022-06-22,Home Appliances,1266,22,Female,Japan,2
+2022-12-02,Clothing,1581,22,Male,Canada,5
+2022-04-05,Clothing,815,35,Female,Canada,4
+2022-04-11,Clothing,1068,35,Female,Japan,4
+2022-11-01,Clothing,609,35,Male,Japan,3
+2022-11-10,Electronics,782,22,Male,UK,3
+2022-01-31,Home Appliances,1070,22,Male,USA,4
+2023-04-04,Home Appliances,1020,35,Male,Canada,5
+2023-02-01,Electronics,1456,35,Female,USA,2
+2022-01-21,Home Appliances,1911,35,Male,Japan,2
+2023-04-13,Clothing,785,35,Female,India,3
+2023-10-29,Home Appliances,466,35,Female,India,2
+2023-05-18,Clothing,144,22,Female,USA,5
+2022-03-23,Clothing,1563,22,Female,India,1
+2023-11-08,Clothing,251,35,Female,India,3
+2022-03-09,Clothing,860,35,Male,Japan,2
+2023-10-24,Electronics,710,22,Male,Japan,4
+2023-04-11,Home Appliances,1836,35,Male,Canada,1
+2022-01-19,Clothing,863,22,Male,Canada,5
+2022-10-05,Clothing,366,35,Male,Japan,5
+2023-01-31,Electronics,134,35,Male,Japan,3
+2022-02-14,Home Appliances,212,22,Female,Japan,1
+2023-02-28,Electronics,341,22,Female,Canada,2
+2022-12-30,Clothing,1385,35,Male,UK,3
+2022-01-08,Clothing,344,22,Female,Canada,1
+2023-01-20,Home Appliances,1398,22,Female,UK,5
+2022-05-14,Electronics,815,35,Female,Japan,4
+2023-09-07,Home Appliances,1321,35,Male,Japan,5
+2022-03-17,Clothing,226,22,Male,UK,4
+2022-07-29,Electronics,226,22,Female,UK,3
+2022-03-25,Clothing,1040,35,Female,Japan,1
+2022-05-26,Home Appliances,584,22,Female,Canada,3
+2023-08-09,Clothing,1863,22,Female,Canada,3
+2023-11-04,Electronics,1705,35,Male,UK,2
+2022-05-17,Clothing,1449,22,Female,UK,5
+2023-03-24,Home Appliances,1115,22,Male,USA,5
+2022-10-28,Clothing,366,22,Male,UK,4
+2023-10-04,Clothing,1451,22,Female,UK,1
+2023-09-07,Home Appliances,985,22,Female,UK,3
+2023-07-16,Home Appliances,1387,22,Female,India,4
+2023-02-21,Clothing,647,35,Female,Canada,2
+2022-04-06,Home Appliances,1067,35,Female,USA,2
+2023-06-02,Electronics,1875,35,Female,Canada,2
+2023-09-18,Clothing,833,35,Male,Canada,5
+2023-06-17,Home Appliances,1068,22,Female,India,2
+2022-01-17,Clothing,1621,22,Male,UK,1
+2023-01-19,Electronics,996,22,Female,Japan,3
+2023-06-13,Electronics,226,35,Female,Canada,2
+2022-10-05,Home Appliances,226,35,Male,USA,3
+2022-07-30,Clothing,627,35,Male,Canada,4
+2023-05-04,Electronics,933,22,Male,India,5
+2023-06-04,Electronics,1755,35,Female,Japan,2
+2023-09-19,Clothing,3-0,22,Female,India,1
+2023-04-19,Electronics,1762,35,Female,UK,2
+2023-08-06,Electronics,1473,22,Male,Canada,2
+2022-07-14,Electronics,1814,22,Male,India,4
+2023-11-01,Electronics,1838,35,Male,Canada,1
+2023-01-08,Electronics,844,22,Female,Canada,2
+2023-04-26,Home Appliances,625,35,Female,Canada,1
+2022-05-08,Electronics,939,35,Female,Japan,5
+2023-10-03,Electronics,1250,35,Male,UK,1
+2022-09-17,Clothing,1736,22,Male,India,4
+2022-03-28,Clothing,1736,22,Female,India,1
+2022-02-18,Home Appliances,436,22,Male,USA,1
+2022-12-17,Home Appliances,1448,22,Female,India,5
+2023-06-30,Electronics,1875,35,Female,India,5
+2022-01-22,Clothing,607,22,Female,Japan,3
+2022-05-07,Electronics,1400,35,Male,Canada,1
+2023-10-02,Clothing,1187,22,Male,Japan,2
+2023-09-16,Home Appliances,1736,22,Female,India,5
+2022-03-27,Electronics,1776,35,Female,India,5
+2023-10-12,Electronics,752,22,Female,India,4
+2023-09-17,Home Appliances,1547,35,Male,Canada,1
+2022-11-02,Clothing,802,22,Female,USA,1
+2022-12-13,Home Appliances,127,22,Female,UK,1
+2022-10-04,Electronics,1148,35,Female,Canada,4
+2023-04-24,Clothing,1115,35,Female,Japan,2
+2023-05-08,Electronics,1241,22,Male,USA,2
+2022-02-25,Home Appliances,144,35,Female,UK,2
+2022-12-09,Clothing,1428,22,Female,Japan,3
+2023-07-30,Electronics,1249,35,Male,USA,4
+2022-10-10,Clothing,54,22,Male,Japan,4
+2023-11-18,Clothing,1836,35,Female,Canada,3
+2023-07-18,Clothing,1419,22,Female,USA,1
+2023-07-19,Clothing,1367,35,Male,Canada,2
+2023-08-31,Home Appliances,379,22,Female,USA,5
+2023-03-17,Electronics,846,35,Male,Japan,2
+2022-07-16,Electronics,1278,22,Female,Canada,4
+2022-06-22,Electronics,787,22,Male,India,3
+2022-03-03,Home Appliances,1236,35,Female,USA,3
+2023-12-12,Electronics,373,35,Female,India,4
+2022-05-01,Clothing,1863,35,Male,UK,4
+2023-08-20,Electronics,1451,35,Male,USA,3
+2022-11-27,Clothing,1225,35,Female,India,4
+2023-12-29,Clothing,495,22,Male,USA,2
+2023-05-03,Clothing,782,22,Male,Japan,3
+2022-10-29,Home Appliances,1544,22,Male,Canada,3
+2023-12-04,Electronics,1755,35,Female,UK,5
+2022-07-02,Home Appliances,292,35,Male,UK,2
+2023-05-15,Clothing,1911,35,Female,India,2
+2023-12-23,Electronics,1187,200,Male,Canada,1
+2022-09-23,Home Appliances,1259,22,Female,Canada,5
+2022-06-04,Home Appliances,736,35,Female,Canada,4
+2023-03-24,Clothing,1621,22,Female,Canada,3
+2022-01-18,Clothing,1709,22,Female,USA,5
+2022-05-23,Clothing,584,35,Male,UK,1
+2022-11-24,Electronics,336,22,Male,UK,1
+2022-04-29,Home Appliances,213,22,Female,Japan,2
+2023-06-11,Clothing,295,22,Female,Canada,3
+2023-05-13,Home Appliances,782,35,Male,UK,1
+2023-12-14,Clothing,344,22,Female,USA,4
+2023-12-21,Home Appliances,597,22,Female,USA,2
+2022-02-14,Clothing,153,35,Male,Canada,5
+2023-11-06,Home Appliances,846,22,Male,UK,3
+2023-11-26,Electronics,1456,35,Male,Japan,2
+2022-10-04,Electronics,1451,35,Female,Japan,5
+2022-07-29,Electronics,1337,35,Female,UK,1
+2023-05-10,Clothing,1258,22,Female,Japan,1
+2023-06-29,Clothing,1621,22,Male,Japan,2
+2023-03-10,Home Appliances,1755,22,Female,Japan,1
+2023-08-04,Home Appliances,304,22,Male,USA,2
+2023-12-03,Electronics,1942,22,Female,Canada,4
+2022-05-19,Clothing,1781,22,Female,UK,1
+2023-10-05,Clothing,1367,35,Male,India,3
+2022-01-18,Clothing,891,35,Female,UK,1
+2023-03-26,Clothing,506,22,Female,India,3
+2022-10-22,Electronics,684,22,Male,Japan,2
+2022-02-22,Clothing,329,35,Male,Canada,3
+2023-09-10,Clothing,1668,35,Female,UK,1
+2023-02-25,Electronics,1067,35,Male,Canada,5
+2023-10-08,Electronics,1762,35,Female,India,2
+2023-01-14,Home Appliances,1459,22,Male,USA,3
+2023-03-18,Electronics,1071,35,Female,Canada,1
+2022-05-24,Home Appliances,1387,22,Male,USA,1
+2022-03-24,Electronics,1337,22,Female,India,4
+2023-06-20,Electronics,495,35,Female,USA,4
+2022-12-04,Clothing,68,22,Female,Japan,5
+2022-02-17,Clothing,1776,35,Female,UK,2
+2023-04-11,Electronics,1259,22,Male,India,4
+2022-12-13,Clothing,687,22,Female,India,5
+2022-09-01,Home Appliances,584,35,Female,USA,3
+2023-04-05,Electronics,627,22,Unknown,USA,2
+2022-12-12,Home Appliances,1385,35,Unknown,Japan,2
+2023-12-30,Electronics,1387,22,Female,USA,4
+2022-04-15,Electronics,1624,35,Unknown,India,2
+2022-02-04,Electronics,647,22,Female,Canada,5
+2023-09-01,Electronics,1068,22,Female,UK,2
+2023-10-22,Electronics,1145,22,Male,UK,1
+2023-12-17,Clothing,1367,22,Unknown,Canada,5
+2023-11-01,Home Appliances,301,22,Female,Canada,5
+2022-01-16,Electronics,41,35,Female,Canada,2
+2022-09-25,Clothing,985,35,Male,Japan,2
+2023-08-06,Electronics,863,35,Male,Japan,4
+2023-08-23,Electronics,1225,35,Male,Japan,1
+2022-01-22,Home Appliances,1321,22,Male,Canada,4
+2023-07-01,Electronics,891,22,Unknown,Japan,2
+2023-01-23,Home Appliances,985,22,Female,USA,1
+2023-08-10,Electronics,173,22,Male,India,3
+2022-01-10,Clothing,1449,22,Unknown,UK,4
+2023-04-01,Electronics,1337,22,Female,UK,2
+2023-01-24,Clothing,1096,22,Unknown,Canada,5
+2023-03-07,Clothing,336,22,Male,Japan,5
+2023-05-09,Clothing,1419,22,Male,India,2
+2022-06-26,Clothing,1140,35,Female,UK,3
+2022-09-14,Electronics,736,22,Male,Japan,3
+2023-04-01,Electronics,1755,20,Female,Canada,1
+2023-09-07,Clothing,379,35,Unknown,Canada,5
+2023-11-15,Clothing,1448,35,Male,USA,3
+2023-12-21,Home Appliances,1829,35,Female,UK,4
+2023-04-25,Electronics,1241,35,Female,USA,3
+2023-10-27,Home Appliances,1187,22,Male,Japan,4
+2022-10-01,Clothing,1978,22,Male,UK,5
+2022-06-02,Home Appliances,1428,35,Female,Japan,4
+2023-10-29,Home Appliances,1327,35,Female,USA,2
+2022-07-28,Clothing,28,35,Unknown,India,4
+2023-10-08,Home Appliances,687,22,Female,Canada,2
+2022-05-16,Home Appliances,627,22,Male,Canada,3
+2022-07-11,Electronics,204,35,Female,UK,2
+2022-03-21,Clothing,1259,22,Female,India,5
+2023-08-19,Electronics,752,35,Male,Japan,5
+2022-01-26,Electronics,1249,35,Male,Canada,4
+2023-02-14,Clothing,344,22,Male,Canada,5
+2023-06-09,Home Appliances,54,35,Female,Japan,1
+2022-11-16,Clothing,128,22,Female,USA,4
+2022-05-11,Clothing,204,22,Male,Canada,1
+2022-06-10,Clothing,917,22,Male,UK,5
+2022-12-16,Clothing,128,35,Unknown,Japan,3
+2022-06-01,Home Appliances,68,35,Female,Canada,3
+2023-12-07,Electronics,153,22,Female,Japan,5
+2022-05-28,Home Appliances,686,35,Male,Japan,3
+2023-02-23,Electronics,54,22,Unknown,USA,3
+2022-02-04,Clothing,1632,35,Male,USA,5
+2023-05-27,Home Appliances,41,35,Female,Japan,5
+2023-11-26,Clothing,1448,22,Male,UK,1
+2023-08-18,Clothing,860,22,Female,USA,2
+2022-01-27,Clothing,1337,22,Male,Canada,1
+2022-08-02,Home Appliances,251,22,Male,Japan,4
+2023-07-17,Clothing,1755,22,Male,India,4
+2022-12-21,Electronics,710,22,Female,Canada,3
+2023-03-11,Clothing,785,22,Unknown,USA,4
+2023-05-16,Home Appliances,609,22,Male,Canada,3
+2023-04-09,Home Appliances,1258,35,Female,UK,5
+2023-01-11,Clothing,891,22,Female,Japan,2
+2022-07-23,Electronics,1143,22,Unknown,Canada,5
+2023-02-19,Clothing,670,35,Male,Canada,5
+2022-01-17,Home Appliances,597,35,Male,USA,5
+2023-09-24,Clothing,1898,22,Male,USA,3
+2023-06-28,Clothing,1459,35,Male,USA,3
+2022-11-21,Home Appliances,1632,22,Female,Canada,2
+2023-03-14,Home Appliances,1145,22,Male,Canada,5
+2023-10-16,Home Appliances,597,22,Unknown,USA,2
+2022-09-09,Home Appliances,1581,22,Female,UK,3
+2022-12-01,Electronics,1863,35,Female,USA,5
+2023-10-03,Clothing,188,35,Female,UK,2
+2022-11-21,Home Appliances,1980,22,Male,Canada,4
+2022-04-15,Home Appliances,1709,22,Female,Australia,5
+2023-02-12,Clothing,1705,22,Male,Australia,4
+2022-08-19,Electronics,917,22,Male,USA,4
+2022-01-30,Home Appliances,1071,22,Female,Canada,1
+2023-12-02,Home Appliances,1712,35,Female,India,5
+2023-04-29,Electronics,833,22,Female,USA,2
+2022-08-22,Electronics,1400,35,Male,UK,2
+2022-07-15,Home Appliances,1501,22,Female,UK,2
+2022-03-04,Home Appliances,782,35,Unknown,India,4
+2022-01-23,Home Appliances,22,35,Unknown,Canada,5
+2022-07-14,Clothing,466,35,Male,Australia,1
+2022-07-18,Home Appliances,939,35,Female,USA,3
+2022-02-03,Electronics,1489,35,Female,UK,1
+2023-08-09,Electronics,1563,22,Male,Canada,2
+2023-12-11,Electronics,273,22,Male,India,1
+2022-05-14,Home Appliances,1145,22,Unknown,UK,4
+2022-11-27,Home Appliances,1563,35,Male,USA,2
+2023-01-24,Electronics,1085,35,Male,Australia,1
+2023-06-30,Clothing,710,22,Male,USA,1
+2022-04-27,Home Appliances,3-0,35,Unknown,Canada,3
+2023-06-20,Electronics,801,35,Male,UK,2
+2022-09-25,Clothing,597,22,Male,Australia,3
+2023-12-28,Electronics,149,35,Male,Canada,2
+2023-01-29,Home Appliances,779,35,Female,USA,3
+2022-05-11,Clothing,1547,35,Female,India,1
+2023-01-04,Clothing,917,35,Female,USA,4
+2023-12-22,Home Appliances,895,22,Male,India,3
+2022-01-06,Home Appliances,1067,22,Female,USA,2
+2022-03-11,Home Appliances,379,22,Unknown,USA,5
+2023-10-30,Clothing,1845,35,Male,USA,5
+2022-05-28,Electronics,609,35,Female,USA,3
+2023-10-05,Electronics,1236,35,Female,Australia,1
+2023-05-15,Electronics,188,35,Male,India,3
+2022-03-05,Home Appliances,1980,35,Male,USA,4
+2023-04-16,Home Appliances,801,22,Male,USA,two
+2022-04-06,Electronics,1448,22,Male,UK,5
+2022-08-24,Home Appliances,1259,35,Female,Australia,2
+2023-09-05,Home Appliances,601,22,Female,UK,2
+2023-01-07,Electronics,1523,35,Female,USA,3
+2022-06-28,Electronics,1187,35,Female,Australia,1
+2023-11-08,Home Appliances,1249,35,Female,Australia,2
+2022-07-01,Clothing,1419,35,Male,Australia,1
+2022-06-21,Home Appliances,1071,35,Male,Canada,4
+2022-02-05,Clothing,1278,22,Female,USA,4
+2023-03-23,Clothing,779,95,Female,Japan,1
+2023-09-05,Clothing,1501,35,Female,UK,3
+2023-06-01,Clothing,1385,22,Male,Australia,3
+2023-11-14,Clothing,1829,35,Unknown,USA,3
+2022-10-05,Home Appliances,1096,35,Unknown,UK,5
+2022-09-11,Electronics,1096,2,Male,UK,4
+2022-08-27,Clothing,251,35,Unknown,USA,4
+2023-09-03,Clothing,625,22,Female,Canada,2
+2023-09-23,Clothing,917,35,Male,India,1
+2023-08-03,Home Appliances,431,35,Unknown,Australia,5
+2022-02-19,Electronics,863,22,Female,Australia,5
+2022-03-12,Clothing,1385,35,Female,India,2
+2022-12-02,Clothing,329,22,Female,Canada,1
+2023-08-29,Home Appliances,1258,22,Male,Australia,3
+2022-02-08,Clothing,1781,35,Female,USA,2
+2023-07-11,Electronics,1656,22,Did not answer,UK,3
+2023-03-25,Electronics,344,35,Female,UK,3
+2023-09-22,Clothing,212,112,Male,UK,3
+2023-10-30,Home Appliances,510,22,Female,Canada,3
+2022-03-25,Electronics,259,35,Male,UK,4
+2023-11-29,Home Appliances,1621,35,Male,India,2
+2022-11-23,Electronics,336,22,Male,Australia,5
+2023-08-28,Electronics,1398,22,Female,UK,1
+2023-01-15,Clothing,1249,22,Female,India,4
+2023-01-29,Electronics,1544,22,Male,Australia,2
+2022-11-21,Clothing,1418,35,Male,USA,3
+2022-03-11,Electronics,290,22,Female,Australia,4
+2022-09-08,Electronics,1814,35,Female,Australia,1
+2023-07-31,Electronics,292,35,Female,USA,3
+2023-01-27,Clothing,495,35,Female,India,2
+2022-04-14,Electronics,1316,35,Male,UK,4
+2022-12-20,Electronics,1418,22,Male,Canada,3
+2022-07-03,Home Appliances,939,35,Female,UK,4
+2023-08-21,Home Appliances,863,22,Female,India,3
+2022-10-30,Electronics,1067,22,Male,Canada,3
+2022-07-13,Clothing,1419,22,Male,India,3
+2023-08-08,Home Appliances,987,35,Female,USA,4
+2022-05-01,Clothing,1367,22,Male,USA,5
+2022-02-06,Electronics,802,35,Male,Australia,1
+2023-11-27,Home Appliances,1140,22,Female,UK,4
+2022-01-10,Clothing,601,35,Male,Australia,2
+2022-05-25,Clothing,1781,22,Female,USA,1
+2022-03-17,Home Appliances,466,35,Male,Canada,1
+2022-04-06,Electronics,304,22,Male,Australia,3
+2022-10-05,Electronics,1829,35,Female,Canada,2
+2023-04-07,Home Appliances,1085,35,Male,Canada,4
+2022-07-22,Clothing,686,22,Male,India,3
+2023-03-21,Home Appliances,1021,35,Male,India,2
+2022-10-22,Home Appliances,1581,35,Male,Australia,2
+2022-01-22,Home Appliances,1249,22,Female,Australia,1
+2023-01-12,Electronics,686,22,Male,India,2
+2022-02-03,Electronics,785,35,Male,USA,5
+2022-03-01,Clothing,779,35,Male,USA,2
+2022-10-06,Home Appliances,815,22,Male,UK,5
+2023-02-11,Home Appliances,1250,22,Male,Canada,3
+2022-04-07,Home Appliances,625,22,Female,Canada,4
+2023-03-15,Home Appliances,77,35,Male,India,4
+2023-08-22,Electronics,1736,22,Male,USA,5
+2022-04-10,Electronics,495,22,Male,USA,1
+2022-07-03,Clothing,670,35,Female,India,4
+2023-05-25,Clothing,761,35,Male,USA,2
+2023-07-20,Home Appliances,466,35,Male,USA,4
+2023-11-10,Clothing,1250,35,Female,UK,3
+2022-03-05,Home Appliances,1547,22,Male,India,2
+2022-02-15,Electronics,1845,35,Female,Canada,3
+2023-01-31,Electronics,1621,22,Male,India,4
+2022-04-29,Electronics,1148,22,Female,India,1
+2022-12-06,Clothing,939,100,Male,Canada,2
+2023-03-04,Home Appliances,1875,35,Male,UK,3
+2023-12-15,Clothing,771,22,Male,India,5
+2023-10-08,Home Appliances,1385,35,Female,USA,3
+2023-10-30,Clothing,510,22,Male,USA,5
+2023-04-09,Electronics,996,35,Male,USA,5
+2023-10-21,Clothing,1822,22,Male,Canada,one
+2022-08-01,Electronics,797,22,Male,USA,5
+2022-05-01,Home Appliances,290,22,Female,USA,2
+2023-10-17,Electronics,466,22,Male,Australia,4
+2022-06-21,Clothing,609,35,Male,USA,3
+2022-11-04,Home Appliances,1621,35,Male,UK,2
+2022-01-18,Clothing,881,22,Male,USA,5
+2022-08-06,Clothing,985,22,Female,Canada,2
+2023-03-11,Clothing,41,22,Male,Canada,2
+2023-12-28,Electronics,365,35,Male,India,1
+2022-02-04,Home Appliances,609,22,Male,Australia,5
+2022-09-04,Clothing,1501,22,Male,India,2
+2022-04-25,Electronics,28,22,Female,UK,3
+2023-09-05,Clothing,1447,35,Female,USA,1
+2022-09-01,Home Appliances,1148,22,Female,UK,2
+2022-02-15,Electronics,752,22,Male,UK,3
+2022-03-06,Clothing,1140,35,Male,UK,3
+2022-06-16,Clothing,1776,22,Female,India,5
+2023-05-23,Electronics,273,35,Female,UK,2
+2023-07-16,Home Appliances,273,35,Female,Canada,5
+2022-07-25,Home Appliances,292,22,Female,India,3
+2023-12-30,Home Appliances,1776,22,Male,USA,2
+2022-10-04,Electronics,1709,35,Male,UK,5
+2023-02-28,Electronics,686,35,Male,India,5
+2023-10-01,Clothing,336,22,Male,Australia,4
+2023-01-27,Electronics,295,35,Male,UK,1
+2023-07-07,Clothing,1547,35,Female,Australia,3
+2022-03-20,Electronics,134,35,Female,UK,3
+2023-01-26,Home Appliances,22,22,Male,Canada,5
+2022-06-30,Home Appliances,99,35,Male,Australia,3
+2023-07-03,Electronics,1428,22,Female,Australia,3
+2022-11-28,Electronics,371,35,Male,India,2
+2023-08-04,Home Appliances,625,22,Male,India,4
+2023-01-14,Home Appliances,782,35,Female,India,2
+2023-01-18,Electronics,1250,22,Female,USA,2
+2022-07-04,Home Appliances,431,22,Female,India,3
+2022-06-25,Electronics,1344,22,Female,Canada,3
+2023-05-26,Electronics,994,22,Female,USA,3
+2022-10-11,Electronics,1781,22,Male,Australia,2
+2022-10-22,Electronics,1451,22,Male,Australia,2
+2023-10-02,Electronics,939,35,Male,India,4
+2022-05-23,Electronics,1398,22,Male,Australia,5
+2023-05-04,Clothing,1547,22,Male,Canada,2
+2023-05-24,Electronics,815,22,Female,Australia,3
+2023-02-27,Electronics,684,22,Female,Australia,2
+2023-03-25,Clothing,1067,35,Female,Australia,1
+2022-06-19,Home Appliances,647,22,Male,UK,2
+2023-11-21,Electronics,436,22,Male,Canada,2
+2022-11-21,Electronics,506,22,Male,Australia,1
+2023-08-18,Clothing,1398,22,Male,Canada,4
+2022-02-25,Home Appliances,710,22,Male,Canada,2
+2022-10-16,Electronics,1250,35,Male,USA,1
+2023-04-21,Electronics,1021,22,Female,India,1
+2023-07-02,Clothing,259,22,Female,USA,1
+2023-04-02,Home Appliances,846,22,Male,Canada,4
+2023-07-21,Home Appliances,670,22,Male,India,1
+2022-03-20,Home Appliances,1068,35,Male,UK,5
+2022-05-15,Home Appliances,1225,35,Female,Canada,3
+2023-09-04,Clothing,1705,35,Male,India,5
+2022-11-04,Clothing,1829,22,Male,India,2
+2022-01-03,Electronics,1618,22,Male,USA,4
+2022-07-27,Electronics,212,35,Male,Canada,4
+2023-09-10,Clothing,1225,35,Male,Australia,4
+2023-05-28,Home Appliances,1180,22,Male,USA,2
+2022-10-26,Electronics,860,35,Male,UK,1
+2022-10-28,Electronics,1187,35,Male,USA,2
+2023-04-20,Home Appliances,833,35,Male,Australia,1
+2022-06-28,Electronics,607,35,Male,UK,1
+2022-07-12,Clothing,1258,22,Female,India,5
+2022-11-29,Clothing,1632,22,Male,USA,1
+2023-07-17,Electronics,22,22,Male,UK,2
+2022-10-14,Clothing,1266,35,Male,Canada,1
+2022-03-03,Electronics,627,22,Male,Australia,2
+2022-11-07,Electronics,251,22,Male,Canada,4
+2022-12-22,Clothing,1108,22,Female,India,5
+2023-04-16,Clothing,1070,35,Female,UK,1
+2022-01-23,Clothing,379,35,Female,UK,4
+2023-12-13,Electronics,584,35,Male,Australia,4
+2022-09-24,Clothing,710,35,Male,India,2
+2023-03-15,Home Appliances,1563,35,Male,UK,4
+2023-07-01,Electronics,99,22,Male,Australia,4
+2023-04-28,Electronics,1875,22,Male,USA,1
+2022-02-11,Home Appliances,833,35,Female,Canada,3
+2023-09-14,Home Appliances,722,35,Male,Australia,1
+2022-07-08,Electronics,782,22,Male,India,3
+2022-12-21,Home Appliances,304,35,Male,USA,4
+2022-01-28,Clothing,1266,22,Male,USA,3
+2022-04-08,Clothing,1781,35,Female,India,4
+2022-10-17,Electronics,1266,22,Female,USA,1
+2023-06-16,Electronics,520,22,Female,USA,2
+2022-01-14,Clothing,466,22,Male,UK,3
+2022-04-09,Electronics,1180,35,Male,Canada,5
+2022-11-20,Clothing,994,35,Male,Canada,2
+2023-12-31,Home Appliances,1776,22,Female,Australia,3
+2023-11-21,Home Appliances,344,22,Male,Canada,4
+2023-09-24,Home Appliances,1688,35,Male,Japan,4
+2023-01-28,Electronics,860,22,Male,Canada,4
+2023-10-13,Home Appliances,77,35,Male,India,4
+2023-08-16,Clothing,1266,35,Male,India,4
+2022-05-06,Clothing,153,35,Female,UK,1
+2022-08-12,Clothing,710,22,Female,Japan,3
+2022-02-03,Clothing,1668,35,Female,Canada,2
+2023-12-08,Clothing,212,35,Male,USA,3
+2023-04-22,Home Appliances,1736,35,Female,UK,3
+2022-04-01,Clothing,456,35,Male,USA,1
+2023-07-27,Home Appliances,1776,35,Male,UK,1
+2022-10-02,Clothing,1085,35,Male,India,4
+2023-10-12,Electronics,436,22,Female,UK,4
+2023-07-12,Home Appliances,1258,35,Male,Canada,3
+2023-12-11,Electronics,1266,35,Male,Canada,1
+2023-06-04,Home Appliances,1473,22,Male,India,2
+2022-03-04,Home Appliances,1838,35,Male,Australia,3
+2022-05-20,Electronics,1143,22,Female,USA,1
+2023-01-09,Clothing,1387,22,Male,UK,3
+2023-11-30,Clothing,456,22,Female,Australia,1
+2022-12-03,Clothing,684,35,Female,UK,3
+2023-02-22,Clothing,687,35,Female,Australia,2
+2022-07-19,Home Appliances,1428,22,Male,USA,1
+2023-01-13,Clothing,379,22,Female,Canada,5
+2022-05-18,Home Appliances,1768,35,Male,UK,4
+2022-04-14,Home Appliances,1632,35,Male,UK,1
+2022-07-20,Home Appliances,1140,22,Female,USA,3
+2023-01-15,Electronics,77,22,Male,USA,4
+2022-12-20,Electronics,1148,22,Male,Australia,3
+2023-01-16,Clothing,292,35,Female,UK,1
+2023-12-19,Home Appliances,259,22,Female,Australia,3
+2022-11-20,Clothing,1980,22,Male,India,1
+2022-09-24,Electronics,173,101,Female,UK,1
+2023-03-22,Electronics,251,35,Male,Canada,4
+2023-12-20,Electronics,1838,35,Female,UK,1
+2022-05-11,Home Appliances,520,35,Female,USA,2
+2023-04-28,Electronics,1621,180,Male,Canada,5
+2023-05-16,Electronics,1278,22,Male,Australia,2
+2022-05-11,Clothing,752,35,Male,USA,1
+2022-01-04,Clothing,1898,22,Male,USA,5
+2023-02-04,Clothing,336,35,Female,India,3
+2022-09-23,Clothing,1400,35,Male,India,3
+2023-07-06,Electronics,1547,105,Male,India,2
+2022-05-25,Electronics,895,22,Male,Canada,4
+2023-08-10,Home Appliances,329,22,Female,Australia,5
+2022-09-20,Electronics,1259,35,Male,UK,5
+2023-11-01,Clothing,597,35,Male,USA,4
+2023-06-02,Home Appliances,290,35,Male,Australia,3
+2023-07-19,Home Appliances,846,35,Male,India,1
+2022-04-10,Electronics,1547,35,Male,Australia,3
+2023-08-28,Electronics,609,22,Male,Japan,1
+2023-05-07,Home Appliances,1448,35,Male,India,3
+2023-03-24,Home Appliances,273,22,Male,USA,5
+2022-08-20,Home Appliances,1851,35,Male,Australia,5
+2022-12-12,Electronics,1456,35,Male,Australia,1
+2023-04-18,Clothing,1096,22,Female,Australia,3
+2023-12-27,Home Appliances,939,22,Male,India,1
+2022-06-22,Electronics,1418,22,Female,India,1
+2023-05-10,Home Appliances,687,35,Female,Canada,3
+2022-06-01,Electronics,1259,35,Female,India,1
+2023-09-26,Electronics,779,35,Male,India,1
+2022-04-11,Electronics,1501,35,Male,Australia,3
+2023-08-02,Electronics,295,22,Male,India,2
+2023-08-30,Home Appliances,466,35,Male,UK,2
+2023-08-01,Clothing,149,35,Male,Australia,4
+2022-06-21,Home Appliances,153,35,Male,USA,2
+2022-01-19,Home Appliances,1266,35,Male,UK,3
+2023-12-10,Clothing,212,22,Male,Australia,1
+2023-08-24,Electronics,985,22,Female,Canada,3
+2022-05-09,Clothing,996,22,Male,India,5
+2022-04-23,Home Appliances,22,22,Male,UK,3
+2023-08-10,Electronics,1232,22,Female,Canada,2
+2022-11-23,Home Appliances,1755,22,Male,UK,4
+2022-09-22,Electronics,366,22,Male,India,1
+2023-01-24,Home Appliances,506,35,Male,Australia,1
+2023-01-22,Electronics,341,22,Female,India,2
+2022-05-11,Home Appliances,710,22,Male,UK,4
+2023-07-16,Electronics,1148,35,Male,Australia,5
+2023-12-16,Clothing,1459,22,Male,Australia,4
+2023-01-19,Home Appliances,987,35,Male,Canada,4
+2023-11-02,Clothing,365,35,Male,Australia,2
+2023-12-05,Electronics,710,22,Male,USA,4
+2022-03-23,Electronics,466,35,Male,UK,1
+2023-11-09,Clothing,1292,22,Female,USA,4
+2023-04-02,Electronics,149,35,Female,USA,2
+2023-10-04,Electronics,1398,35,Male,India,4
+2023-06-26,Electronics,1419,22,Male,Canada,4
+2022-05-19,Clothing,295,22,Female,UK,1
+2022-09-06,Home Appliances,1851,22,Female,Australia,1
+2023-02-04,Home Appliances,801,35,Female,UK,2
+2023-06-17,Home Appliances,290,35,Male,Australia,3
+2023-02-01,Electronics,1898,22,Female,USA,1
+2022-10-14,Electronics,833,35,Female,Australia,2
+2023-08-20,Clothing,304,22,Female,Canada,4
+2023-07-21,Clothing,761,22,Female,India,1
+2023-02-10,Clothing,1624,35,Female,USA,5
+2023-08-13,Clothing,771,22,Male,USA,2
+2023-03-05,Electronics,1801,22,Female,USA,5
+2022-05-04,Clothing,1400,22,Female,UK,1
+2023-03-13,Clothing,365,22,Female,Canada,5
+2022-03-15,Clothing,273,22,Male,Australia,3
+2022-09-24,Home Appliances,996,35,Male,USA,1
+2022-04-25,Electronics,1449,22,Male,Canada,4
+2022-09-03,Clothing,722,35,Female,India,2
+2023-12-25,Electronics,366,22,Female,USA,5
+2022-08-10,Clothing,1258,22,Male,Australia,3
+2022-03-30,Home Appliances,785,120,Female,USA,5
+2022-06-28,Home Appliances,436,22,Male,India,1
+2023-09-19,Electronics,1656,22,Male,Australia,5
+2022-06-21,Clothing,917,22,Male,Canada,2
+2023-06-20,Home Appliances,1618,22,Male,UK,5
+2023-03-31,Clothing,1140,22,Female,UK,5
+2023-12-15,Clothing,779,22,Male,Canada,4
+2023-02-24,Home Appliances,1249,35,Female,Canada,3
+2022-04-15,Home Appliances,371,22,Male,Canada,5
+2022-11-15,Home Appliances,1259,22,Female,Australia,4
+2023-07-24,Electronics,1068,22,Male,USA,5
+2022-02-12,Electronics,1709,105,Male,Canada,5
+2022-08-25,Electronics,1344,22,Male,USA,3
+2022-08-31,Electronics,722,22,Female,Canada,5
+2023-01-26,Home Appliances,761,22,Male,USA,3
+2022-04-27,Home Appliances,1451,35,Female,Australia,5
+2023-02-10,Home Appliances,939,22,Male,UK,3
+2023-04-05,Clothing,1822,35,Male,Canada,5
+2022-02-23,Home Appliances,891,22,Female,UK,3
+2023-05-06,Home Appliances,436,35,Female,Canada,1
+2023-12-11,Home Appliances,1278,22,Male,Canada,5
+2022-01-27,Home Appliances,1776,22,Male,UK,4
+2023-10-13,Home Appliances,670,22,Female,Canada,5
+2022-03-29,Electronics,510,22,Female,UK,5
+2023-09-16,Electronics,684,35,Female,UK,4
+2023-05-23,Home Appliances,1232,22,Male,USA,5
+2022-05-14,Clothing,251,22,Female,Canada,1
+2023-02-21,Clothing,1709,35,Male,UK,4
+2023-07-16,Clothing,771,35,Female,UK,4
+2022-06-16,Clothing,771,35,Male,Australia,3
+2023-04-02,Home Appliances,188,35,Female,Canada,3
+2023-05-15,Clothing,1801,22,Female,UK,4
+2023-05-13,Electronics,1656,22,Female,India,4
+2022-03-25,Clothing,1419,35,Male,USA,5
+2022-08-15,Clothing,1071,22,Female,India,1
+2023-01-07,Clothing,1292,22,Female,UK,3
+2023-12-29,Clothing,1501,35,Female,UK,2
+2022-01-16,Electronics,127,22,Male,Australia,5
+2023-02-15,Clothing,213,22,Female,UK,5
+2022-07-09,Electronics,1148,35,Female,India,1
+2022-04-23,Clothing,371,22,Male,USA,3
+2022-09-26,Electronics,1021,35,Female,USA,2
+2022-06-12,Home Appliances,273,35,Female,Canada,3
+2022-11-16,Electronics,1547,35,Male,,3
+2023-12-16,Electronics,1544,22,Male,USA,1
+2022-06-24,Clothing,1980,35,Female,UK,5
+2022-03-31,Electronics,495,22,Female,Australia,1
+2022-07-09,Electronics,466,22,Female,India,3
+2022-01-29,Electronics,1266,22,Female,India,2
+2022-02-08,Clothing,1563,35,Male,,5
+2023-11-28,Home Appliances,54,22,Female,UK,1
+2022-03-27,Home Appliances,627,22,Female,Canada,4
+2023-04-05,Clothing,205,35,Male,UK,2
+2022-11-03,Home Appliances,1523,22,Male,Australia,4
+2022-09-29,Clothing,163,35,Female,UK,3
+2022-12-31,Clothing,456,22,Female,Canada,2
+2022-10-12,Electronics,1776,22,Male,India,2
+2023-05-02,Clothing,686,35,Female,India,5
+2022-12-29,Home Appliances,1407,35,Female,UK,3
+2022-07-11,Clothing,344,35,Female,Australia,1
+2023-08-02,Electronics,770,22,Male,UK,2
+2022-07-16,Electronics,495,22,Male,Australia,1
+2023-03-07,Home Appliances,779,22,Male,India,3
+2023-04-10,Home Appliances,1547,22,Male,USA,3
+2023-04-11,Home Appliances,863,35,Male,India,4
+2023-06-26,Electronics,1814,22,Female,Canada,1
+2022-05-21,Clothing,881,22,Female,UK,1
+2022-10-11,Clothing,1248,35,Female,Canada,5
+2023-05-03,Electronics,736,22,Male,India,3
+2022-11-09,Clothing,670,35,Male,Australia,3
+2023-06-20,Clothing,259,35,Female,USA,3
+2023-03-13,Clothing,1836,22,Female,UK,3
+2023-09-22,Electronics,1148,22,Female,USA,5
+2023-12-12,Clothing,1236,22,Female,India,4
+2022-03-29,Home Appliances,1249,35,Male,Canada,3
+2022-02-04,Electronics,801,35,Female,USA,2
+2022-01-04,Electronics,1447,35,Female,Australia,4
+2022-04-21,Clothing,891,35,Female,Canada,5
+2022-09-20,Home Appliances,627,22,Female,UK,4
+2022-02-10,Electronics,213,35,Male,USA,4
+2022-11-06,Clothing,917,35,Female,Australia,5
+2022-07-11,Electronics,149,35,Female,India,2
+2023-07-21,Electronics,286,22,Female,USA,3
+2023-06-25,Electronics,609,35,Female,India,2
+2022-08-07,Home Appliances,1942,22,Female,UK,3
+2022-12-13,Home Appliances,1532,35,Female,USA,5
+2023-06-20,Home Appliances,1398,22,Male,UK,1
+2023-06-02,Home Appliances,1321,35,Female,UK,5
+2022-09-25,Home Appliances,1980,35,Male,India,4
+2023-11-09,Home Appliances,1241,22,Male,Canada,3
+2022-08-27,Clothing,466,22,Female,Australia,5
+2022-09-27,Home Appliances,212,22,Male,USA,2
+2023-10-26,Home Appliances,365,22,Female,Canada,1
+2023-10-28,Electronics,1621,35,Male,UK,2
+2023-08-07,Electronics,436,35,Female,USA,2
+2023-06-04,Home Appliances,625,22,Male,USA,4
+2022-01-18,Home Appliances,779,35,Male,Canada,3
+2022-08-07,Electronics,329,22,Male,Australia,3
+2023-12-21,Electronics,1419,22,Female,India,5
+2023-08-24,Electronics,607,35,Female,USA,4
+2022-07-09,Electronics,917,35,Male,UK,5
+2023-03-31,Electronics,212,35,Female,USA,3
+2023-10-25,Electronics,286,22,Male,USA,4
+2023-02-16,Electronics,1316,35,Female,USA,3
+2023-05-07,Clothing,54,35,Female,UK,4
+2022-11-06,Home Appliances,365,35,Female,UK,1
+2023-03-09,Home Appliances,456,35,Male,Australia,1
+2023-05-31,Electronics,1248,22,Female,Canada,3
+2022-10-15,Home Appliances,1241,22,Male,Canada,4
+2023-10-14,Electronics,149,22,Female,USA,5
+2022-04-07,Clothing,1387,35,Male,UK,1
+2023-08-09,Clothing,1544,35,Female,Canada,5
+2023-09-04,Home Appliances,341,22,Female,Canada,1
+2023-11-24,Clothing,782,22,Female,USA,3
+2023-01-21,Electronics,1618,35,Male,Canada,5
+2022-02-09,Clothing,779,35,Female,Australia,4
+2023-11-20,Electronics,722,22,Male,USA,1
+2023-09-30,Home Appliances,985,35,Female,Australia,4
+2022-04-08,Electronics,204,35,Female,India,2
+2022-12-04,Home Appliances,1321,35,Male,India,5
+2022-10-30,Home Appliances,1292,35,Male,USA,1
+2022-03-20,Electronics,1621,22,Male,UK,4
+2022-02-02,Home Appliances,1544,35,Male,India,3
+2023-04-03,Home Appliances,1419,35,Male,Australia,2
+2022-12-19,Clothing,1430,35,Female,India,2
+2023-07-04,Clothing,597,35,Female,Canada,4
+2023-05-18,Electronics,1337,22,Female,UK,5
+2023-02-10,Electronics,445,35,Male,India,3
+2023-08-08,Home Appliances,1547,35,Female,UK,4
+2023-06-16,Clothing,1621,22,Male,Australia,4
+2022-05-01,Home Appliances,1068,22,Female,UK,4
+2022-12-14,Electronics,99,35,Female,Australia,4
+2022-01-12,Electronics,627,35,Female,Australia,4
+2023-04-18,Clothing,1385,22,Female,UK,4
+2023-01-11,Home Appliances,292,22,Female,UK,3
+2022-05-29,Clothing,1020,22,Female,Australia,3
+2023-07-21,Electronics,1115,35,Female,India,4
+2023-04-07,Electronics,1180,22,Female,Australia,3
+2023-02-24,Clothing,134,35,Female,Australia,1
+2023-09-14,Clothing,153,35,Female,India,1
+2023-12-14,Home Appliances,1071,35,Female,USA,2
+2023-10-04,Clothing,609,35,Male,USA,1
+2023-05-01,Home Appliances,1501,35,Male,Canada,2
+2023-11-27,Electronics,1532,22,Female,India,3
+2023-06-30,Clothing,1447,35,Male,Canada,4
+2022-06-01,Clothing,1145,35,Female,UK,4
+2023-06-25,Home Appliances,1447,22,Female,USA,1
+2022-10-23,Home Appliances,1621,22,Female,Canada,3
+2023-06-25,Home Appliances,601,35,Female,Canada,5
+2023-09-27,Electronics,1994,35,Female,Australia,4
+2022-02-28,Clothing,329,35,Female,USA,3
+2023-04-16,Clothing,1040,22,Female,Australia,4
+2023-03-06,Home Appliances,431,35,Female,Canada,1
+2023-04-16,Electronics,1108,22,Female,Australia,5
+2023-05-29,Clothing,933,22,Female,Canada,4
+2023-11-08,Electronics,3-0,35,Female,UK,3
+2023-11-10,Home Appliances,212,22,Male,USA,2
+2023-09-20,Home Appliances,627,35,Male,USA,4
+2022-03-31,Electronics,68,22,Male,UK,2
+2022-07-24,Electronics,801,35,Female,Australia,3
+2023-03-16,Electronics,273,22,Female,USA,4
+2023-07-15,Electronics,1875,35,Female,USA,5
+2022-07-20,Electronics,1108,22,Female,USA,1
+2023-11-27,Electronics,710,35,Female,USA,1
+2023-05-16,Home Appliances,1447,35,Female,Canada,3
+2022-01-05,Electronics,797,35,Male,Australia,5
+2023-11-30,Electronics,895,22,Female,USA,5
+2022-12-03,Clothing,251,35,Male,Australia,1
+2023-05-19,Home Appliances,495,35,Female,UK,2
+2023-07-16,Home Appliances,1451,22,Male,USA,3
+2023-11-15,Home Appliances,933,22,Male,India,5
+2023-12-18,Electronics,1387,35,Female,UK,4
+2023-05-30,Electronics,1781,35,Male,Canada,3
+2023-02-18,Electronics,684,35,Male,USA,1
+2022-03-17,Electronics,213,22,Male,Canada,4
+2023-09-04,Clothing,336,35,Male,Australia,3
+2022-06-22,Electronics,273,35,Female,Canada,3
+2023-12-27,Electronics,1266,22,Male,UK,2
+2023-03-21,Clothing,601,22,Male,Canada,4
+2022-03-21,Electronics,1898,35,Male,USA,1
+2023-05-27,Electronics,431,35,Female,UK,3
+2022-07-26,Clothing,597,35,Male,Canada,2
+2023-11-14,Electronics,1576,22,Male,Canada,1
+2023-06-16,Electronics,1143,35,Female,UK,4
+2023-05-13,Electronics,301,22,Male,Canada,1
+2023-11-02,Home Appliances,1021,22,Female,India,4
+2022-12-20,Electronics,860,22,Female,Australia,1
+2023-06-12,Electronics,273,35,Male,Canada,4
+2023-08-17,Electronics,1705,22,Female,Canada,3
+2023-02-13,Home Appliances,985,22,Male,Australia,4
+2022-06-01,Clothing,1814,35,Female,India,1
+2022-06-28,Clothing,341,22,Male,Australia,5
+2023-11-20,Electronics,1070,35,Female,India,1
+2022-09-16,Clothing,144,22,Male,Australia,1
+2022-08-30,Electronics,373,22,Female,India,1
+2023-09-29,Home Appliances,1428,35,Male,UK,5
+2023-10-24,Clothing,1547,22,Male,Australia,1
+2023-03-22,Home Appliances,771,22,Non-binary,UK,1
+2022-09-07,Clothing,1400,35,Male,USA,3
+2022-11-28,Home Appliances,1781,22,Male,USA,2
+2022-01-08,Home Appliances,301,22,Non-binary,UK,5
+2022-05-27,Electronics,1148,22,Female,Australia,5
+2023-07-23,Electronics,1576,35,Female,India,1
+2023-02-20,Clothing,1316,35,Female,USA,5
+2022-03-14,Home Appliances,1115,35,Female,India,5
+2023-05-24,Clothing,1266,35,Non-binary,India,4
+2022-01-05,Electronics,1712,22,Female,India,2
+2022-02-05,Home Appliances,794,22,Male,Australia,5
+2023-06-04,Electronics,771,22,Male,UK,2
+2023-07-31,Clothing,301,22,Male,India,5
+2022-09-20,Home Appliances,149,35,Female,Canada,3
+2022-10-18,Electronics,917,22,Male,Canada,2
+2023-08-09,Home Appliances,1473,22,Non-binary,USA,4
+2023-08-10,Home Appliances,1115,35,Male,Japan,5
+2023-01-11,Clothing,1428,22,Male,USA,1
+2022-03-09,Electronics,1618,35,Male,Australia,5
+2023-10-04,Home Appliances,134,35,Female,UK,5
+2022-04-01,Clothing,520,35,Female,USA,5
+2022-12-03,Electronics,1838,35,Male,USA,2
+2022-07-17,Clothing,292,35,Male,India,5
+2022-02-13,Electronics,1875000,22,Male,Australia,2
+2023-03-30,Home Appliances,1145,35,Male,UK,4
+2023-03-20,Clothing,273,35,Male,Canada,3
+2022-10-16,Electronics,881,22,Female,USA,3
+2023-12-02,Clothing,801,22,Male,Australia,3
+2023-02-02,Home Appliances,1148,35,Female,Canada,5
+2023-07-30,Home Appliances,144,22,Female,Canada,2
+2023-01-05,Electronics,1688,22,Male,USA,3
+2022-11-18,Electronics,1456,22,Female,India,4
